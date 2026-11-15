@@ -1,0 +1,48 @@
+# Menerbitkan ekstensi VS Code Lokashaka ke Open VSX tanpa token (trusted publishing / OIDC).
+# Jalankan: push tag `v<versi>` (mis. v1.0.6) atau tombol "Run workflow" di tab Actions.
+# Versi di package.json harus belum pernah terbit (Open VSX menolak nomor yang sama).
+# Pendaftaran trusted publisher di open-vsx.org: namespace lokashaka, GitHub, extension lokashaka,
+# repo Lokashaka/lokashaka-extension, workflow publish-vsx.yml.
+name: Publish to Open VSX
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-vsx
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      id-token: write # dibutuhkan untuk token OIDC GitHub
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Cek versi (tag harus sama dengan package.json)
+        run: |
+          VERSION=$(node -p "require('./package.json').version")
+          echo "Versi di package.json: $VERSION"
+          if [ "${GITHUB_REF_TYPE}" = "tag" ] && [ "${GITHUB_REF_NAME}" != "v${VERSION}" ]; then
+            echo "Tag ${GITHUB_REF_NAME} tidak sama dengan v${VERSION}"; exit 1
+          fi
+          test "$(ls media/characters | wc -l)" -ge 7
+
+      - name: Kemas VSIX
+        run: npx --yes @vscode/vsce package --allow-missing-repository --no-dependencies -o "${RUNNER_TEMP}/lokashaka.vsix"
+
+      - name: Terbitkan ke Open VSX (trusted publishing)
+        run: npx --yes ovsx@latest publish --trusted-publishing "${RUNNER_TEMP}/lokashaka.vsix"

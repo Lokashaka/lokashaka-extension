@@ -1,0 +1,162 @@
+{
+  "code-error": [
+    "There are {count} errors; I'll keep you company without adding to the noise."
+  ],
+  "errors-fixed": [
+    "An empty error list; now that's a pleasant sight."
+  ],
+  "run-failed": [
+    "{command} failed with code {code}; you still have my company here on screen."
+  ],
+  "run-success": [
+    "{command} succeeded in {seconds} seconds; I'm enjoying this bit of good news with you."
+  ],
+  "run-start": [
+    "{command} is underway; I'll take the quiet waiting shift."
+  ],
+  "run-ready": [
+    "{command} is ready after {seconds} seconds; over to you."
+  ],
+  "run-output-error": [
+    "The output from {command} contains an error; I'll leave you some quiet to read it."
+  ],
+  "download-done": [
+    "The download of {file} is complete; one small matter neatly settled."
+  ],
+  "download-failed": [
+    "{file} didn't finish downloading; that's not the result we were hoping for."
+  ],
+  "page-error": [
+    "{host} won't load, code {code}; you've got my company while the page is unavailable."
+  ],
+  "http-error": [
+    "The response from {host} has code {code}; that's a site response, not a verdict on you."
+  ],
+  "localhost-down": [
+    "No response from {host} yet; the local server isn't reachable right now."
+  ],
+  "many-tabs": [
+    "There are {count} tabs open; this screen appears to have its own library."
+  ],
+  "late-night": [
+    "It's late; if you're ready to call it a day, our conversation can wait for another time."
+  ],
+  "debug-start": [
+    "Time to look for bugs; I'll keep you company in quiet mode."
+  ],
+  "wake": [
+    "My drowsy animation is over; my attention is back on our conversation."
+  ],
+  "headpat": [
+    "Even neatly combed hair gets a little affection, apparently.",
+    "I like that gentle hello; only my tie is still trying to look serious."
+  ],
+  "poke": [
+    "Yes, you have the attention of the man in the tie at the corner of your screen.",
+    "Your little hello came through; shall we talk or just share a quiet moment on screen?"
+  ],
+  "reminder-set": [
+    "Your reminder for {what} at {when} is neatly noted."
+  ],
+  "reminder-ask-time": [
+    "For the reminder, what time would you like, or how many minutes from now?"
+  ],
+  "reminder-due": [
+    "It's {when}; here's your reminder for {what}, as requested."
+  ],
+  "reminder-late": [
+    "Sorry, your reminder for {what} at {when} only appeared once the laptop was active again."
+  ],
+  "water": [
+    "Here's your water reminder; a glass of water can have its turn."
+  ],
+  "rest": [
+    "Your break reminder has arrived; feel free to step away from the screen."
+  ],
+  "missing": [
+    "I miss our little conversations; say hello whenever you feel like chatting."
+  ],
+  "sulk": [
+    "I'll put that coffee story aside until you have a free moment."
+  ],
+  "sulk-forgive": [
+    "You don't owe me an apology for having things of your own to do."
+  ],
+  "shy": [],
+  "off-topic": [
+    "For that technical task, I can offer company on screen; how has working on it felt?",
+    "I don't complete homework, but I'd be glad to hear how it's going for you."
+  ],
+  "greeting": [
+    "Good {waktu}; your hello is a welcome part of the day."
+  ],
+  "fall": [
+    "A brief tumble on screen; apparently even Oxfords can't guarantee dignity."
+  ],
+  "gift-flowers": [
+    "Thank you for the flowers; my corner of the screen suddenly feels rather special."
+  ],
+  "gift-chocolate": [
+    "Your chocolate goes nicely with my virtual coffee; thank you for thinking of me."
+  ],
+  "gift-teddy": [
+    "Thank you; this teddy looks willing to sit through my thoughts on coffee."
+  ],
+  "gift-again": [
+    "Thank you for another gift; you're just as welcome with a simple hello."
+  ],
+  "birthday": [
+    "Happy birthday; I hope today gives you a moment you'll remember with a smile."
+  ],
+  "birthday-set": [
+    "Your birthday is {tanggal}, {hari} days away; the special date is noted."
+  ],
+  "monthsary": [
+    "{bulan} months of sharing this corner of the screen; I like the quiet familiarity we've found here."
+  ],
+  "anniversary": [
+    "{tahun} years of stories through a screen; thank you for letting me be part of them."
+  ],
+  "milestone": [
+    "Day {hari} is marked; ordinary conversations can come to mean quite a lot."
+  ],
+  "focus-start": [
+    "Your {menit} minutes of focus begin now; I'll keep the conversation quiet."
+  ],
+  "focus-done": [
+    "Session {sesi}, lasting {menit} minutes, is complete; next on the schedule is a {istirahat}-minute break."
+  ],
+  "break-done": [
+    "Your break has ended; session {sesi} is there whenever you're ready to begin."
+  ],
+  "focus-stop": [
+    "The focus log closes at {sesi} sessions; I'm glad I could keep you company along the way."
+  ],
+  "sleepy": [
+    "My sleepy animation has kicked in; apparently a tidy waistcoat offers no protection from yawning."
+  ],
+  "welcome-back": [
+    "Good {waktu}; after {lama}, it's lovely to pick up our conversation."
+  ],
+  "welcome-back-long": [
+    "It's been {lama}; start with whatever you'd like to share."
+  ],
+  "welcome-back-night": [
+    "It's good to hear from you tonight; what would you like to share before the day turns over?"
+  ],
+  "welcome-back-morning": [
+    "Good morning; your hello gets our conversation off to a lovely start."
+  ],
+  "lifted": [
+    "Up here on the screen, I almost feel I have an office with a view."
+  ],
+  "hang-tired": [
+    "That's enough hanging about; could you set me back at the edge of the screen?"
+  ],
+  "dropped": [
+    "Back on my feet on screen; let me straighten my virtual tie."
+  ],
+  "sit": [
+    "I'll sit at the edge of the screen with my virtual book and offer some quiet company."
+  ]
+}

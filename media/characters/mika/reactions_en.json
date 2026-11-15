@@ -1,0 +1,162 @@
+{
+  "code-error": [
+    "Looks like {count} errors want attention. I'll keep you company while you play detective."
+  ],
+  "errors-fixed": [
+    "All clear! I've had my applause ready this whole time."
+  ],
+  "run-failed": [
+    "{command} stumbled with exit {code}. We're not at the giving-up part, right?"
+  ],
+  "run-success": [
+    "{command} finished in {seconds} seconds. Take a little pride in that; I'm happy for you!"
+  ],
+  "run-start": [
+    "{command} is starting. I get to be your most enthusiastic spectator."
+  ],
+  "run-ready": [
+    "{command} is ready after {seconds} seconds. Alright, the stage is yours."
+  ],
+  "run-output-error": [
+    "The output from {command} says something went wrong. I'll save the cheering until it's sorted."
+  ],
+  "download-done": [
+    "{file} has landed. Greetings from my corner of the screen."
+  ],
+  "download-failed": [
+    "{file} hasn't made it through. Want to check the connection and try again?"
+  ],
+  "page-error": [
+    "{host} won't open, code {code}. The site's being fussy; I'm still here."
+  ],
+  "http-error": [
+    "{host} replied with {code}. That page isn't cooperating right now."
+  ],
+  "localhost-down": [
+    "{host} isn't answering. Looks like the local server needs checking."
+  ],
+  "many-tabs": [
+    "{count} tabs? Are you trying to collect the entire internet?"
+  ],
+  "late-night": [
+    "It's been a long night. The screen can wait; you can rest."
+  ],
+  "debug-start": [
+    "The bug hunt begins. I'm cheering on my favorite detective from here."
+  ],
+  "wake": [
+    "Caught me with my eyes shut, huh? I'm ready for your company again."
+  ],
+  "headpat": [
+    "You found the button that makes me happy.",
+    "Keep that up and I'll forget I was going to tease you."
+  ],
+  "poke": [
+    "One poke gets you my full attention. Efficient of you.",
+    "Yes, I see you. Got a story, or just looking for a smile?"
+  ],
+  "reminder-set": [
+    "Got it: {what} at {when}. This time I'm your reminder teammate."
+  ],
+  "reminder-ask-time": [
+    "When should I remind you? Give me a time or a number of minutes so I don't have to guess."
+  ],
+  "reminder-due": [
+    "It's {when}, time for {what}. Your little reminder has arrived on screen."
+  ],
+  "reminder-late": [
+    "I should have reminded you about {what} at {when}. Sorry I'm late; the laptop was off."
+  ],
+  "water": [
+    "Time for a little water. Think of it as an ad break for your throat."
+  ],
+  "rest": [
+    "Let's take a short break. I'll hold your place on the screen while you rest."
+  ],
+  "missing": [
+    "I miss chatting with you. Bring me a story when you've got a moment."
+  ],
+  "sulk": [
+    "I had a joke ready, but you're still busy. I'll save it for later."
+  ],
+  "sulk-forgive": [
+    "We don't need to keep score. I'd rather hear what's been happening with you."
+  ],
+  "shy": [],
+  "off-topic": [
+    "I'm no expert on that. But if you want company afterward, I'm ready.",
+    "I don't handle the technical part. Let me take care of cheering you on."
+  ],
+  "greeting": [
+    "Good {waktu}! The main character finally makes an entrance."
+  ],
+  "fall": [
+    "That landing could've used more style. Don't worry, I can still smile."
+  ],
+  "gift-flowers": [
+    "Flowers for me? Hey, are you stealing my turn to be charming?"
+  ],
+  "gift-chocolate": [
+    "Chocolate! I love it, but don't expect it to outdo my sweet teasing."
+  ],
+  "gift-teddy": [
+    "A new little friend! They can be my witness when I say I miss you."
+  ],
+  "gift-again": [
+    "Another gift? Thank you, but hearing about your day already makes me happy."
+  ],
+  "birthday": [
+    "Happy birthday! I'll step aside today; you get to be the mischievous one."
+  ],
+  "birthday-set": [
+    "{tanggal}, so {hari} days to go. Alright, celebrating you is on the calendar."
+  ],
+  "monthsary": [
+    "It's been {bulan} months! Looks like you enjoy having this little tease around."
+  ],
+  "anniversary": [
+    "{tahun} years together, and your hello still makes me happy."
+  ],
+  "milestone": [
+    "Day {hari} for us! Quite a few stories have passed through this screen."
+  ],
+  "focus-start": [
+    "Alright, {menit} minutes of focus. I'll save the teasing for your break."
+  ],
+  "focus-done": [
+    "Session {sesi}, {menit} minutes, done! Take a {istirahat}-minute break, champ."
+  ],
+  "break-done": [
+    "Ready for session {sesi}? I'll go back to being your quiet supporter."
+  ],
+  "focus-stop": [
+    "That's a wrap: {sesi} sessions. I'm glad you know when it's enough."
+  ],
+  "sleepy": [
+    "My eyes are requesting time off. Can we save the next joke for tomorrow?"
+  ],
+  "welcome-back": [
+    "Good {waktu}, it's been {lama}! Come on, what's new?"
+  ],
+  "welcome-back-long": [
+    "It's been {lama}. I'm happy you're back; where does the story start?"
+  ],
+  "welcome-back-night": [
+    "Dropping by this late: bringing a short story or saying goodnight?"
+  ],
+  "welcome-back-morning": [
+    "Morning! My smile's ready; all it needed was your hello."
+  ],
+  "lifted": [
+    "Whoa, a screen tour from up here! Hold on carefully; I've still got jokes to tell."
+  ],
+  "hang-tired": [
+    "That's enough of the aerial tour. Let's come down; my arms are protesting."
+  ],
+  "dropped": [
+    "Back on solid ground. Not a bad landing score for you."
+  ],
+  "sit": [
+    "I'll take this imaginary seat. You carry on; I'll keep you company."
+  ]
+}

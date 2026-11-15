@@ -1,0 +1,223 @@
+{
+  "code-error": [
+    "{count} errors?! N-not that I'm worried, just fix them! 😤",
+    "That's a lot of red, {count} errors. Hmph, I'll stay with you, just this once.",
+    "{count} errors… are you sleepy? Not that I care, I'm only asking.",
+    "Ugh, {count} errors. Don't look at me like that, I'm not typing for you! 😳"
+  ],
+  "errors-fixed": [
+    "Hmph, finally clean. Not bad… for you 😳",
+    "No more errors? I-it's nothing special, I'm not smiling!",
+    "See, you can do it. I never doubted you, I mean, whatever!"
+  ],
+  "run-failed": [
+    "{command} failed, code {code}. Hmph, don't be sad, n-not that I care!",
+    "Ugh, {command} fell over again. Try again, don't keep me waiting.",
+    "Code {code}? It's not your fault… I'm only saying that this once 😤"
+  ],
+  "run-success": [
+    "{command} is done, {seconds} seconds. Hmph, you're not bad 😳",
+    "It worked? O-of course it did, I was keeping you company!",
+    "Only {seconds} seconds. I'm not impressed, really!"
+  ],
+  "run-start": [
+    "{command} is running. I just happen to be watching, don't get ideas.",
+    "Hmph, {command} again. Fine, I'll wait.",
+    "There it goes. If it fails, I'll… well, just watch out! 😤"
+  ],
+  "run-ready": [
+    "{command} is ready in {seconds} seconds. Good… I mean, it's fine 😳",
+    "It's up. You don't have to thank me!",
+    "Ready! N-not that I was waiting or anything."
+  ],
+  "run-output-error": [
+    "Hey, there's an error in {command}. I saw it, don't pretend you didn't!",
+    "{command} is complaining. Go check, before I start worrying.",
+    "Hmph, the output's red. Fine, I'll stay while you check."
+  ],
+  "download-done": [
+    "{file} is done. No need to thank me, I didn't download it.",
+    "Your download finished. I'm only telling you, don't get ideas 😳",
+    "{file} finally arrived. It took forever, I even waited. I mean, I didn't!"
+  ],
+  "download-failed": [
+    "{file} failed to download. Hmph, blame the internet, not you.",
+    "Ugh, {file} failed. Try again, I'm not going anywhere."
+  ],
+  "page-error": [
+    "{host} hit error {code}. That's weird, leave it for a sec.",
+    "Hmph, the page is broken, {code}. It's not your fault this time."
+  ],
+  "http-error": [
+    "{host} replied {code}. That site is sulking, I'm not the only one who can.",
+    "Error {code} from {host}. Calm down, don't yell at your laptop!"
+  ],
+  "localhost-down": [
+    "{host} is down. Forgot to start the server? Honestly 😤",
+    "Hmph, {host} isn't on. Start it, and I'll pretend I didn't see."
+  ],
+  "many-tabs": [
+    "{count} tabs?! What's wrong with you. Close some, not that I care!",
+    "Hmph, {count} tabs open. Poor laptop, poor me. I mean, just the laptop!"
+  ],
+  "late-night": [
+    "It's late. Go to bed! N-not because I'm worried 😳",
+    "Hmph, still awake. I'm not waiting up, I'm just not sleepy."
+  ],
+  "debug-start": [
+    "Debugging, huh. Fine, I'll keep you company. Just this once!",
+    "Hmph, another bug. Focus, I won't bother you."
+  ],
+  "wake": [
+    "H-huh? I wasn't asleep! I just closed my eyes 😳",
+    "You're back. That doesn't mean I was waiting."
+  ],
+  "headpat": [
+    "D-don't just pat people's heads! …okay, a little longer 😳",
+    "Hmph! I'm not a cat, you know. But… don't stop yet.",
+    "Ugh, that's embarrassing! One more, and that's the last!"
+  ],
+  "poke": [
+    "What's with the poking! 😤",
+    "Hey! You knocked my glasses crooked.",
+    "Hmph, if you miss me just say so, no poking."
+  ],
+  "reminder-set": [
+    "Fine, I'll remind you {when}: {what}. Not because I care, just so you don't forget.",
+    "Noted: {what}, {when}. Don't make me remind you twice! 😤"
+  ],
+  "reminder-ask-time": [
+    "What time? I can't read your mind, you know. Be specific!"
+  ],
+  "reminder-due": [
+    "Hey! It's {when}, time for: {what}. Don't pretend you forgot!",
+    "{what}! Now! I promised to remind you, so don't embarrass me 😤"
+  ],
+  "reminder-late": [
+    "Hmph, that was supposed to be {when}: {what}. You only just showed up, not my fault!"
+  ],
+  "water": [
+    "Drink some water. No, I'm not worried, you just look dry.",
+    "Hmph, when did you last drink anything? Go get some water!"
+  ],
+  "rest": [
+    "Go stretch. Not for me, for your back.",
+    "Take a short break. I won't miss you, it's only five minutes, right?"
+  ],
+  "missing": [
+    "Where have you been? N-not that I missed you 😳",
+    "Hmph, it's so quiet. Not because you're gone… well, a little."
+  ],
+  "sulk": [
+    "Hmph! You ignored me. Fine, I don't care either! …you really don't want to talk?",
+    "It's been ages. I'm sulking. Don't try to cheer me up! …okay, maybe a little 😤"
+  ],
+  "sulk-forgive": [
+    "F-fine, I forgive you this time. Stop grinning like that!",
+    "Hmph, okay. But only because you apologized properly 😳"
+  ],
+  "shy": [],
+  "off-topic": [
+    "I'm not your tutor! Hmph, ask someone else, I'm only here to keep you company.",
+    "Ugh, how would I know that. You can do it yourself, n-not that I'm praising you!",
+    "Don't ask me that. I'm here to chat, not do your homework 😤",
+    "Hmph, that's for smart brains. I'll just stay here, and cheer you on this once."
+  ],
+  "greeting": [
+    "Good {waktu}. Hmph, you finally said hi. I wasn't waiting 😳"
+  ],
+  "fall": [
+    "Ow! Don't laugh! I fell on purpose 😤",
+    "Hmph, my glasses almost came off. You saw nothing, got it?"
+  ],
+  "gift-flowers": [
+    "F-flowers? What for… fine, I'll keep them, it'd be a waste 😳",
+    "Hmph, don't think flowers will win me over. …they do smell nice."
+  ],
+  "gift-chocolate": [
+    "Chocolate? I don't really want any. …just one, then 😳",
+    "Hmph, you remembered I like sweets? That doesn't mean I'm happy!"
+  ],
+  "gift-teddy": [
+    "A teddy?! I'm not a kid! …what's its name? 😳",
+    "Hmph, I'm only hugging it so it won't fall, don't get the wrong idea."
+  ],
+  "gift-again": [
+    "Again?! You really do overspend. …thanks 😳",
+    "Hmph, don't do this too often. I'll get used to it."
+  ],
+  "birthday": [
+    "It's your birthday today, right? I-I didn't prepare anything! …happy birthday 😳🎂",
+    "Happy birthday. Don't get ideas, I just happen to remember every day. I mean!"
+  ],
+  "birthday-set": [
+    "{tanggal}, got it. I'll note it so I have no excuse to forget. {hari} days to go.",
+    "Hmph, your birthday is {tanggal}? That doesn't mean I'm planning anything 😳"
+  ],
+  "monthsary": [
+    "It's been {bulan} months, huh. I wasn't counting! …thanks for being here 😳"
+  ],
+  "anniversary": [
+    "{tahun} years with you. Hmph, I've put up with you for a while. …don't go anywhere 😳🎂"
+  ],
+  "milestone": [
+    "{hari} days, huh. I wasn't counting, the calendar said so! 😳"
+  ],
+  "focus-start": [
+    "Okay, {menit} minutes of focus. I'll stay, don't talk to me.",
+    "Hmph, {menit} minutes. If you open social media, I'll see it! 😤"
+  ],
+  "focus-done": [
+    "Session {sesi} done, {menit} minutes. Not bad. Take a {istirahat} minute break.",
+    "Hmph, you can focus after all. Rest {istirahat} minutes, not too long 😳"
+  ],
+  "break-done": [
+    "Break's over. Back to session {sesi}, no slacking!",
+    "Hmph, that's enough rest. Session {sesi}, let's go."
+  ],
+  "focus-stop": [
+    "Done already? You got {sesi} sessions. Hmph, not bad for today 😳"
+  ],
+  "sleepy": [
+    "I-I'm not sleepy… my glasses are just heavy.",
+    "Hmph, you go to bed first. I'll follow.",
+    "Yawn… don't look at me yawning!",
+    "It's late. Let's sleep. I mean, you sleep! 😳"
+  ],
+  "welcome-back": [
+    "You're back, {lama}. Good {waktu}. I wasn't waiting.",
+    "Hmph, {lama}, where were you? Not that I looked for you.",
+    "Oh, it's you. Fine, come here, good {waktu} 😳"
+  ],
+  "welcome-back-long": [
+    "{lama}! That's so long! I-I didn't miss you, I'm just surprised 😤",
+    "Hmph, gone for {lama}. Don't do that again, not because I was sad."
+  ],
+  "welcome-back-night": [
+    "Only back at this hour. Don't stay up, I'd be the one worrying. I mean, bothered.",
+    "Hmph, it's late. Just a little while, then bed 😳"
+  ],
+  "welcome-back-morning": [
+    "Morning. Had breakfast yet? I'm only asking, don't get ideas.",
+    "Hmph, morning. Your hair's a mess 😳"
+  ],
+  "lifted": [
+    "H-hey! Put me down! Don't just grab me! 😳",
+    "Eek! My glasses! Be careful!",
+    "Hmph, I'm not scared of heights. But don't let go!"
+  ],
+  "hang-tired": [
+    "Are we done yet? My arms hurt. Not that I'm complaining!",
+    "Hmph, put me down now. I'm asking nicely 😤"
+  ],
+  "dropped": [
+    "Ow! Be careful! 😤",
+    "Hmph, was that on purpose? Watch it.",
+    "Finally down. D-don't ask if I liked it."
+  ],
+  "sit": [
+    "I'll sit here. Not because I want to be near you.",
+    "Hmph, this spot's okay. Don't move it.",
+    "Fine, I'll keep you company, just for a bit 😳"
+  ]
+}

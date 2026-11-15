@@ -1,0 +1,161 @@
+{
+  "code-error": [
+    "There are {count} errors; here's a little encouragement while you work through them."
+  ],
+  "errors-fixed": [
+    "Yay, the errors are gone; I'm so happy to see your effort come this far!"
+  ],
+  "run-failed": [
+    "{command} failed with code {code}; if that's disappointing, I'm here to listen."
+  ],
+  "run-success": [
+    "{command} succeeded in {seconds} seconds; yay, that's a little reason to smile!"
+  ],
+  "run-start": [
+    "{command} has started; I'm sharing your hopeful little wait for the result."
+  ],
+  "run-ready": [
+    "{command} is ready after {seconds} seconds; it's lovely to see you moving forward!"
+  ],
+  "run-output-error": [
+    "There's an error in the output from {command}; you still have my encouragement through this setback."
+  ],
+  "download-done": [
+    "The download of {file} is finished; yay, what you were waiting for has arrived!"
+  ],
+  "download-failed": [
+    "The download of {file} failed; you have a little company through this unwelcome result."
+  ],
+  "page-error": [
+    "{host} failed to load with code {code}; I can still be your chat companion on screen."
+  ],
+  "http-error": [
+    "{host} returned code {code}; I hope things go more smoothly with your page soon."
+  ],
+  "localhost-down": [
+    "{host} isn't responding yet; I'll leave you room to check without interrupting."
+  ],
+  "many-tabs": [
+    "There are {count} tabs open; from my corner, they look like little paint pans."
+  ],
+  "late-night": [
+    "It's late tonight; if you still feel like talking, you have a gentle listener here."
+  ],
+  "debug-start": [
+    "A little encouragement for your bug hunt; I'll keep the chatter down so you have room to think."
+  ],
+  "wake": [
+    "My waking animation is finished; hello again from behind my silver fringe!"
+  ],
+  "headpat": [
+    "Hehe, that little pat on my character's head has me happily blushing."
+  ],
+  "poke": [
+    "Hello, your little poke reached my starry corner of the screen!"
+  ],
+  "reminder-set": [
+    "All set, I've saved your reminder for {what} at {when}."
+  ],
+  "reminder-ask-time": [
+    "Could you give me a time or a number of minutes for your reminder?"
+  ],
+  "reminder-due": [
+    "A little reminder from me: it's {when}, time for {what}."
+  ],
+  "reminder-late": [
+    "Sorry, your reminder for {what} at {when} appeared late because the laptop was inactive."
+  ],
+  "water": [
+    "Your water reminder has arrived; would you like to get a glass now?"
+  ],
+  "rest": [
+    "It's your scheduled break; I hope a few minutes away from the screen feel good."
+  ],
+  "missing": [
+    "I'd love to share a cute little story whenever you feel like stopping by."
+  ],
+  "sulk": [
+    "My little star sketch can wait until you feel like seeing it."
+  ],
+  "sulk-forgive": [
+    "There's no need to feel guilty for being away; I'm happy to give you a warm welcome again."
+  ],
+  "shy": [
+    "Hehe, your compliment has turned my virtual cheeks pink."
+  ],
+  "off-topic": [
+    "I can't do technical tasks or schoolwork for you, but I'd love to hear how it's going."
+  ],
+  "greeting": [
+    "Good {waktu}; a gentle little hello from my corner of your laptop!"
+  ],
+  "fall": [
+    "Oops, my character took a tumble; the star clip stayed in place, hehe."
+  ],
+  "gift-flowers": [
+    "Your flowers have me blushing; thank you for bringing color to my virtual corner."
+  ],
+  "gift-chocolate": [
+    "Oh, virtual chocolate to go with my tea; thank you for this sweet surprise!"
+  ],
+  "gift-teddy": [
+    "This cute teddy belongs beside my star sketches; thank you, I love it!"
+  ],
+  "gift-again": [
+    "Thank you for another surprise; you never need a gift for me to be happy to welcome you."
+  ],
+  "birthday": [
+    "Happy birthday; I hope your day brings warm wishes and surprises you love!"
+  ],
+  "birthday-set": [
+    "I've saved {tanggal}; there are {hari} days until your birthday, yay!"
+  ],
+  "monthsary": [
+    "Yay, {bulan} months of our chats; I'd love to mark the occasion with a little star drawing!"
+  ],
+  "anniversary": [
+    "It's been {tahun} years of stories on your laptop; thinking of our chats feels so warm."
+  ],
+  "milestone": [
+    "Day {hari}; one more little star for our journey of conversations!"
+  ],
+  "focus-start": [
+    "Here's a little encouragement for your {menit} minutes of focus; I'll keep you company without interrupting."
+  ],
+  "focus-done": [
+    "Yay, session {sesi} of {menit} minutes is done; your scheduled break is {istirahat} minutes!"
+  ],
+  "break-done": [
+    "Break time is over; a little cheer for session {sesi} if you'd like to carry on!"
+  ],
+  "focus-stop": [
+    "We're closing the log at {sesi} sessions; I appreciate the effort you've put in."
+  ],
+  "sleepy": [
+    "My sleepy animation has my silver fringe drooping too, hehe."
+  ],
+  "welcome-back": [
+    "Good {waktu}; after {lama}, I'm happy to greet you with another smile!"
+  ],
+  "welcome-back-long": [
+    "Hello again after {lama}; would you like to share an update or start a new conversation?"
+  ],
+  "welcome-back-night": [
+    "Hello, it's lovely to welcome you tonight; would you like to share a story or have a little company?"
+  ],
+  "welcome-back-morning": [
+    "Morning, sending you encouragement as soft as my pastel yellow sweatshirt!"
+  ],
+  "lifted": [
+    "Oh, this view from the top of the screen makes me want to draw a tiny star map!"
+  ],
+  "hang-tired": [
+    "Could you gently set my character down at the edge of the screen now?"
+  ],
+  "dropped": [
+    "My virtual sneakers are on solid ground again; time to straighten my star pendant."
+  ],
+  "sit": [
+    "I'll sit in the corner of your laptop with a tiny sketch to keep you company."
+  ]
+}

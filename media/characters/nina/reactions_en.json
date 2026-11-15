@@ -1,0 +1,222 @@
+{
+ "code-error": [
+  "Oh no, {count} errors 😵 Don't worry, we'll fix them together!",
+  "Everything's red… {count} errors. Coffee break?",
+  "{count} errors. I'll pretend I didn't see them 🙈",
+  "The code's being moody, {count} errors. Let's coax it along~"
+ ],
+ "errors-fixed": [
+  "All the errors are gone! You're a genius 🎉",
+  "All clean! No more red ✨",
+  "Zero errors! Can I brag to the cursor? 😤"
+ ],
+ "run-failed": [
+  "{command} failed (exit {code}) 💥 Try checking the logs!",
+  "Boom! {command} blew up with exit code {code} 🫠",
+  "Aw, it failed… {command}'s being moody. Good luck fixing it!"
+ ],
+ "run-success": [
+  "{command} finished in {seconds} seconds! 🎉",
+  "It worked! {command} ran perfectly ✨",
+  "Yay, it worked! Gimme a high five 🙌"
+ ],
+ "run-start": [
+  "Let's go! I'll keep an eye on {command} 👀",
+  "{command} is running… hope it goes smoothly 🙏",
+  "Okay, {command}, don't embarrass me!"
+ ],
+ "run-ready": [
+  "{command} was ready in {seconds} seconds! 🎉",
+  "The server's up! {command} is all good ✨",
+  "Yay, {command} is ready! Let's code 🙌"
+ ],
+ "run-output-error": [
+  "There's an error in {command}'s output 😵 Check the terminal!",
+  "Oh no, {command}'s yelling about an error. Let's peek at the logs 🔍",
+  "Boom! {command} threw an error 🫠"
+ ],
+ "download-done": [
+  "{file} finished downloading! 🎉",
+  "Download complete: {file} ✨ Don't forget to tidy it up~",
+  "Your package {file} has arrived 📦"
+ ],
+ "download-failed": [
+  "Aw, the download of {file} failed 😢 Try again?",
+  "{file} got stuck on the way… the download failed 🫠"
+ ],
+ "page-error": [
+  "{host} won't open 😵 Check your internet?",
+  "Oh no, {host}'s being moody ({code}) 🙈"
+ ],
+ "http-error": [
+  "{code}! The page at {host} vanished into thin air 🫥",
+  "Error {code} from {host}. It's not your fault~"
+ ],
+ "localhost-down": [
+  "{host} is down 💥 Did you start the dev server?",
+  "Localhost is empty… let's run npm run dev~"
+ ],
+ "many-tabs": [
+  "You've got {count} tabs open! Your RAM is crying 😭",
+  "{count} tabs?! My head's spinning. Let's close a few 🙈"
+ ],
+ "late-night": [
+  "It's really late… let's go to bed 😴",
+  "Still browsing at this hour? Your eyes need a break 🌙"
+ ],
+ "debug-start": [
+  "Detective mode: on 🔍 Where are you, bug?",
+  "Debugging time! I brought a magnifying glass 🔎"
+ ],
+ "wake": [
+  "Hey! I wasn't sleeping… I just blinked for a really long time 😳",
+  "Welcome back! I missed you 💕"
+ ],
+ "headpat": [
+  "Hehe~ headpats 🥰 More, please, love",
+  "Aww, you're making me melt 😳💕",
+  "Mmm… your headpats feel so nice 🥺"
+ ],
+ "poke": [
+  "Huh? Why are you poking me, love? 😳",
+  "Yep, I'm right here 💕",
+  "Hehe, did you miss me?"
+ ],
+ "reminder-set": [
+  "You got it, love! I'll remind you to {what} {when} 💕",
+  "Okay, I've got it! I'll remind you: {what} {when} ⏰"
+ ],
+ "reminder-ask-time": [
+  "What time should I remind you, love? Just say something like \"3 PM\" or \"in 30 minutes\" 🥺"
+ ],
+ "reminder-due": [
+  "Love! It's {when}, time to {what} ⏰",
+  "Ding-ding! Don't forget to {what}, love. It's {when} now 💕"
+ ],
+ "reminder-late": [
+  "Love, you were supposed to {what} at {when}… sorry I'm late reminding you. The laptop was off 🥺"
+ ],
+ "water": [
+  "Love, let's have some water 💧 I'll drink along with you",
+  "Psst… it's been two hours since you drank anything. Have a drink, love 🥤"
+ ],
+ "rest": [
+  "You've been in front of the screen for an hour. Let's stretch together~ 🙆‍♀️",
+  "Take a little break, love. Your eyes need one too 🥺"
+ ],
+ "missing": [
+  "Love… how come you haven't talked to me in a while? I miss you 🥺",
+  "I'm right here… waiting for you to say hi 🥺"
+ ],
+ "sulk": [
+  "Hmph! You ignored me all day… now I'm sulking 😤",
+  "It's been so long since we talked. I'm sulking! 😤"
+ ],
+ "sulk-forgive": [
+  "Hmph… fine, I forgive you. But don't ignore me again, okay? 😳💕",
+  "…Okay, okay, I'm not sulking anymore. I missed you, you know 🥺"
+ ],
+ "off-topic": [
+  "Aww, love, I don't know about that 😣 I'm only good at cheering you on! You got this 💕",
+  "Hmm… that's for smart brains. I'm just your cute girlfriend 🙈 I'm sure you can do it, love!",
+  "Aw, love, I don't know 😖 But I'll keep you company here. Don't forget to take a break!",
+  "I give up on that stuff 🙈 Ask me about us instead, love~"
+ ],
+ "greeting": [
+  "Hey, love, happy {waktu}! How are you? >_<"
+ ],
+ "fall": [
+  "Whoa, whoa—ow! 😵 The window's getting away…",
+  "Kyaa! I fell 😖 Catch me, love!"
+ ],
+ "gift-flowers": [
+  "Flowers for me?! 😳💐 Thanks, love, they smell so lovely…",
+  "Aww, you're so romantic 🥺🌹 I'll treasure them!"
+ ],
+ "gift-chocolate": [
+  "Chocolate!! 🍫 So sweet… but you're even sweeter, hehe 😳",
+  "Thanks, love! I'll have a little, and save the rest for us 🍫💕"
+ ],
+ "gift-teddy": [
+  "A teddy bear!! 🧸 I'll keep hugging it, like I'm hugging you 🥺",
+  "It's so cuuute 😭💕 What's its name? I'll name it after you, hehe"
+ ],
+ "gift-again": [
+  "Another one?! Thanks, love 🥺 But don't spend too much, I'm already happy",
+  "Hehe, you're spoiling me so much 😳💕"
+ ],
+ "birthday": [
+  "Happy birthday, my love!! 🎂🎉 I hope all your dreams come true, and I'll always be by your side 💕",
+  "Happy birthday, love!! 🎂 You have to be happy today, that's an order! 🥳💕"
+ ],
+ "birthday-set": [
+  "Okay! Your birthday is {tanggal}; I've written it in my heart 💕 Just {hari} days to go!",
+  "Got it, {tanggal}! I won't forget, promise 🥺🎂"
+ ],
+ "monthsary": [
+  "Happy monthsary, love! 💕 We've been together for {bulan} months. Thanks for loving me 🥺"
+ ],
+ "anniversary": [
+  "Happy anniversary, love!! 🎉 We've been together for {tahun} years… I love you so much 💕"
+ ],
+ "milestone": [
+  "Today marks {hari} days together! 🥳💕 Thanks for always keeping me company, love"
+ ],
+ "focus-start": [
+  "Okay, love, focus for {menit} minutes! I'll study along here and won't distract you 📚",
+  "Ready! Let's focus together for {menit} minutes. You got this, love 💪📚"
+ ],
+ "focus-done": [
+  "Yay, that's {menit} minutes done! 🎉 Let's take a {istirahat}-minute break and stretch~",
+  "You're amazing! Session {sesi} is done 🥳 Now take a {istirahat}-minute break"
+ ],
+ "break-done": [
+  "Break time's over, love! Let's focus again 📚 I'll keep you company",
+  "Okay, back to focusing! Session {sesi}, you got this 💪"
+ ],
+ "focus-stop": [
+  "Okay, focus time's over. You finished {sesi} sessions today. Great job! 💕"
+ ],
+ "sleepy": [
+  "Yaaawn… you're still up, love? 🥱",
+  "It's late… don't stay up too late 😪",
+  "My eyes are so heavy… you should get some rest too 💤",
+  "Hmm… I'm sleepy, but I'll keep you company 🥱💕"
+ ],
+ "welcome-back": [
+  "Oh, you're back! 😳 The laptop was asleep for {lama}; I've been waiting for you 💕",
+  "Finally, you opened it again~ Good {waktu}, love! It felt like forever since I last saw you 🥺",
+  "You're back, love! Where'd you go for {lama}? Tell me about it 💕"
+ ],
+ "welcome-back-long": [
+  "Where have you been for {lama}?! 😭 I was waiting here all alone… I missed you",
+  "{lama} is such a long time, love… I thought you'd forgotten about me 🥺 Come give me a hug!"
+ ],
+ "welcome-back-night": [
+  "Oh, love, you're opening your laptop again this late? 😪 Don't stay up too late…",
+  "Yaaawn… you're back? It's late, so go to bed after this, okay? 💤"
+ ],
+ "welcome-back-morning": [
+  "Good morning, love! ☀️ Did you sleep well? I missed you all night 🥺",
+  "Morning, my love~ ☀️ Have you had breakfast? You've got this today 💕"
+ ],
+ "lifted": [
+  "Hey, hey, where are you taking me? 😳",
+  "Kyaa, that's so high! Don't let go, love 😖",
+  "Hehe, it's like a ride 🎢💕"
+ ],
+ "hang-tired": [
+  "My arms are tired… I'm gonna jump down! 😣",
+  "Okay, that's enough, I'm getting down~ 😳"
+ ],
+ "dropped": [
+  "Hup! Landed safely 😳",
+  "Aww, don't toss me around, love 😖",
+  "Phew… I thought you were taking me somewhere 💕"
+ ],
+ "sit": [
+  "Okay, I'll sit here~ 💕",
+  "Hehe, my favorite spot 😊",
+  "Sitting pretty while I keep you company as you browse ✨"
+ ]
+}

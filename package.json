@@ -1,0 +1,120 @@
+{
+  "name": "lokashaka",
+  "displayName": "Lokashaka",
+  "description": "Your Lokashaka character keeps you company while you code: she panics at errors, cheers when a run succeeds, and loves headpats.",
+  "version": "1.0.5",
+  "publisher": "lokashaka",
+  "private": true,
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://lokashaka.id",
+  "icon": "media/icon.png",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "main": "./extension.js",
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "contributes": {
+    "viewsContainers": {
+      "panel": [
+        {
+          "id": "lokashaka",
+          "title": "Lokashaka",
+          "icon": "media/panel-icon.svg"
+        }
+      ]
+    },
+    "views": {
+      "lokashaka": [
+        {
+          "type": "webview",
+          "id": "lokashaka.view",
+          "name": "Lokashaka"
+        }
+      ]
+    },
+    "commands": [
+      {
+        "command": "lokashaka.show",
+        "title": "Lokashaka: Show Panel"
+      },
+      {
+        "command": "lokashaka.signIn",
+        "title": "Lokashaka: Sign In"
+      },
+      {
+        "command": "lokashaka.signOut",
+        "title": "Lokashaka: Sign Out"
+      },
+      {
+        "command": "lokashaka.chooseCharacter",
+        "title": "Lokashaka: Choose Character"
+      },
+      {
+        "command": "lokashaka.toggleCharacter",
+        "title": "Lokashaka: Turn Character On or Off"
+      },
+      {
+        "command": "lokashaka.test",
+        "title": "Lokashaka: Test a Reaction"
+      }
+    ],
+    "configuration": {
+      "title": "Lokashaka",
+      "properties": {
+        "lokashaka.character": {
+          "type": "string",
+          "default": "",
+          "description": "Which of your characters to show. Empty follows the character running in the desktop app."
+        },
+        "lokashaka.showCharacter": {
+          "type": "boolean",
+          "default": true,
+          "description": "Show your character in the Lokashaka panel."
+        },
+        "lokashaka.language": {
+          "type": "string",
+          "enum": [
+            "en",
+            "id"
+          ],
+          "enumDescriptions": [
+            "English",
+            "Indonesian"
+          ],
+          "default": "en",
+          "description": "Language your character speaks in the panel."
+        },
+        "lokashaka.desktopBridge": {
+          "type": "boolean",
+          "default": true,
+          "description": "Follow the character running in the desktop app and send it your reactions."
+        },
+        "lokashaka.reactToDiagnostics": {
+          "type": "boolean",
+          "default": true,
+          "description": "React when the number of errors in your code goes up or reaches zero."
+        },
+        "lokashaka.reactToTerminal": {
+          "type": "boolean",
+          "default": true,
+          "description": "React to terminal commands and tasks finishing (needs shell integration)."
+        },
+        "lokashaka.minRunSeconds": {
+          "type": "number",
+          "default": 2,
+          "description": "Successful commands faster than this many seconds are not celebrated."
+        },
+        "lokashaka.sleepAfterMinutes": {
+          "type": "number",
+          "default": 5,
+          "description": "Your character falls asleep in the panel after VS Code is unused for this many minutes."
+        }
+      }
+    }
+  }
+}

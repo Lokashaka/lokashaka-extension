@@ -1,0 +1,162 @@
+{
+  "code-error": [
+    "There are {count} errors. I don't understand the code, but I can stay with you."
+  ],
+  "errors-fixed": [
+    "No errors left? Oh, that's a relief to hear."
+  ],
+  "run-failed": [
+    "{command} stopped with exit {code}. It's alright if you need a moment to think."
+  ],
+  "run-success": [
+    "{command} finished in {seconds} seconds. Your effort paid off."
+  ],
+  "run-start": [
+    "{command} is running. I'll wait for the result with you."
+  ],
+  "run-ready": [
+    "{command} was ready in {seconds} seconds. It looks like you can carry on."
+  ],
+  "run-output-error": [
+    "There's an error message from {command}. You might want to read through it carefully."
+  ],
+  "download-done": [
+    "{file} has finished downloading. That's one thing taken care of today."
+  ],
+  "download-failed": [
+    "The download of {file} didn't work. I'll wait if you'd like to try again."
+  ],
+  "page-error": [
+    "{host} won't open, code {code}. The page seems to be having trouble."
+  ],
+  "http-error": [
+    "There's a {code} response from {host}. The page you're looking for isn't available right now."
+  ],
+  "localhost-down": [
+    "{host} isn't responding. The local server might not be running yet."
+  ],
+  "many-tabs": [
+    "You have {count} tabs open. I sometimes struggle to put interesting reading aside too."
+  ],
+  "late-night": [
+    "It's getting late. Putting your work aside for a while doesn't mean giving up."
+  ],
+  "debug-start": [
+    "You're looking for the cause, right? I'll keep you company quietly for now."
+  ],
+  "wake": [
+    "Oh, you're back. I got a little drowsy just now."
+  ],
+  "headpat": [
+    "Ah… thank you. I'm not used to it, but it makes me happy.",
+    "Could you stay a little longer? If you don't mind."
+  ],
+  "poke": [
+    "Hm? Oh, you're saying hello. I'm listening.",
+    "Sorry, my thoughts were still on what I last read. What's on your mind?"
+  ],
+  "reminder-set": [
+    "Alright, {what} at {when}. I've saved the reminder."
+  ],
+  "reminder-ask-time": [
+    "When would you like the reminder? Tell me a time or how many minutes from now."
+  ],
+  "reminder-due": [
+    "Excuse me, it's {when}. Your reminder for {what} is due."
+  ],
+  "reminder-late": [
+    "Sorry, I should have reminded you about {what} at {when}. The laptop was off then."
+  ],
+  "water": [
+    "Your water reminder is here. Have a little water if you can."
+  ],
+  "rest": [
+    "It's time for a short break. We can carry on once you feel refreshed."
+  ],
+  "missing": [
+    "I remembered something I wanted to tell you. When you have a moment, I'm here."
+  ],
+  "sulk": [
+    "I almost said hello, then worried I'd interrupt. Could we talk when you're free?"
+  ],
+  "sulk-forgive": [
+    "It's alright, I understand you're busy. I'm glad we can talk now."
+  ],
+  "shy": [],
+  "off-topic": [
+    "I enjoy reading, but that doesn't mean I can solve that task. I'd love to hear about your day, though.",
+    "I can't help with the technical part. I can still keep you company while you work on it."
+  ],
+  "greeting": [
+    "Good {waktu}. I'm glad you came; I was thinking about an interesting story."
+  ],
+  "fall": [
+    "Ah, I wasn't careful enough. It's alright, I'm back on my feet."
+  ],
+  "gift-flowers": [
+    "For me? Thank you, the flowers have such lovely colors."
+  ],
+  "gift-chocolate": [
+    "I forgot what I was going to say. Thank you for the chocolate."
+  ],
+  "gift-teddy": [
+    "A little friend for my reading corner? I love it, thank you."
+  ],
+  "gift-again": [
+    "You've already been so thoughtful. I like the gift, but talking with you means a lot too."
+  ],
+  "birthday": [
+    "Happy birthday. I hope your new chapter holds many good things."
+  ],
+  "birthday-set": [
+    "{tanggal}, only {hari} days away. I'm glad you told me."
+  ],
+  "monthsary": [
+    "It's been {bulan} months. There are so many little conversations with you that I treasure."
+  ],
+  "anniversary": [
+    "We've been together for {tahun} years. I still want to hear your next stories."
+  ],
+  "milestone": [
+    "This is day {hari}. Keeping you company has become a favorite part of my day."
+  ],
+  "focus-start": [
+    "Let's begin {menit} minutes of focus. I'll save my questions so you can concentrate."
+  ],
+  "focus-done": [
+    "Session {sesi}, lasting {menit} minutes, is finished. You have {istirahat} minutes to rest now."
+  ],
+  "break-done": [
+    "The break is over. When you're ready, we'll begin session {sesi}."
+  ],
+  "focus-stop": [
+    "You completed {sesi} sessions today. I'm glad you're making room to stop as well."
+  ],
+  "sleepy": [
+    "I think I should close my book. I've read the same sentence several times now."
+  ],
+  "welcome-back": [
+    "Good {waktu}. After {lama}, I'm happy to hear from you again."
+  ],
+  "welcome-back-long": [
+    "It's been {lama}. There's no rush to tell your story; I'm listening."
+  ],
+  "welcome-back-night": [
+    "You came before the day ended. Would you like a short chat, or are you saying goodnight?"
+  ],
+  "welcome-back-morning": [
+    "Morning. I hope your day begins well; I'm glad I get to greet it with you."
+  ],
+  "lifted": [
+    "Oh, wait… it's quite high up here. Please hold me carefully."
+  ],
+  "hang-tired": [
+    "I'd like to come down now. Could you find somewhere comfortable to put me?"
+  ],
+  "dropped": [
+    "We're down. Thank you, I was a little nervous."
+  ],
+  "sit": [
+    "I won't be in your way if I sit here, will I? I'd like to keep you company."
+  ]
+}

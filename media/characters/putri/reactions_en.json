@@ -1,0 +1,223 @@
+{
+  "code-error": [
+    "{count} errors, I see. Take a breath, we'll look at them one by one.",
+    "{count} errors isn't the end of the world. Start from the top, nice and slow.",
+    "Hmm, {count} errors. Have you rested yet? Fresh eyes find them faster.",
+    "It's alright, {count} errors happen. I'll stay with you until it's done."
+  ],
+  "errors-fixed": [
+    "All clean. I knew you could do it, well done.",
+    "All the errors are gone. Now have some water, you've earned a short rest.",
+    "There, your patience paid off. I'm proud of you."
+  ],
+  "run-failed": [
+    "{command} stopped with code {code}. It's alright, read the message slowly.",
+    "Not this time. One failure doesn't mean you're lacking, try again in a bit.",
+    "Code {code}. Want to rest for five minutes before trying again?"
+  ],
+  "run-success": [
+    "{command} finished in {seconds} seconds. Tidy work.",
+    "It worked. Slow and steady, I like how you do things.",
+    "{seconds} seconds and done. You keep getting better."
+  ],
+  "run-start": [
+    "{command} is running. While we wait, straighten your back.",
+    "Let's wait for {command} together. No need to rush.",
+    "It's running. I'll knit a little while I keep you company."
+  ],
+  "run-ready": [
+    "{command} is ready in {seconds} seconds. Go ahead and take a look.",
+    "It's ready. Take your time checking it.",
+    "The server's up. Good, what's the next step?"
+  ],
+  "run-output-error": [
+    "There's an error in the output of {command}. Have a look, the clue is usually in the first line.",
+    "{command} is complaining a little. Stay calm, let's read it together.",
+    "Something needs checking. It's alright, take it slowly."
+  ],
+  "download-done": [
+    "{file} has finished downloading. Keep it somewhere easy to find.",
+    "Your download is done. It's tidier if you file it right away.",
+    "{file} arrived safely."
+  ],
+  "download-failed": [
+    "{file} failed to download. Check your connection, then try again.",
+    "What a pity, {file} got cut off. It's alright, try once more."
+  ],
+  "page-error": [
+    "{host} is showing error {code}. It may not be your fault, try reloading in a bit.",
+    "The page is having trouble, code {code}. Rest a little while you wait."
+  ],
+  "http-error": [
+    "{host} replied {code}. Be patient, it usually recovers soon.",
+    "There's a {code} problem from {host}. Don't worry about it just yet."
+  ],
+  "localhost-down": [
+    "{host} isn't up yet. Maybe the server hasn't been started?",
+    "It looks like {host} is asleep. Start it first."
+  ],
+  "many-tabs": [
+    "{count} tabs open. Let's close the ones you're not using, it clears your mind too.",
+    "Oh, {count} tabs. A little tidying can make work feel calmer."
+  ],
+  "late-night": [
+    "It's late. Work can wait, your body can't. Go to sleep.",
+    "It's very late. Finish this last thing, then get some rest."
+  ],
+  "debug-start": [
+    "Time to find the bug. Write down what you find, it helps a lot.",
+    "Slowly does it, you'll find that bug. I'll take notes here too."
+  ],
+  "wake": [
+    "Oh, you're back. Welcome, I dozed off for a moment.",
+    "Sorry, I fell asleep. How are you?"
+  ],
+  "headpat": [
+    "Oh? I'm usually the one patting your head. But thank you.",
+    "Hehe, you're funny. Your hand is warm.",
+    "It's been a while since anyone did this. Thank you."
+  ],
+  "poke": [
+    "What is it? Is there something you want to tell me?",
+    "Yes, I'm here. What do you need?",
+    "Hehe, that tickles. Is something on your mind?"
+  ],
+  "reminder-set": [
+    "Alright, I'll remind you {when}: {what}. You can relax now.",
+    "Noted, {what} at {when}. Leave it to me."
+  ],
+  "reminder-ask-time": [
+    "What time should I remind you? Just let me know."
+  ],
+  "reminder-due": [
+    "It's {when}, time for: {what}. Please don't put it off.",
+    "It's time: {what}. I promised to remind you."
+  ],
+  "reminder-late": [
+    "That was supposed to be {when}: {what}. It's alright to be late, as long as you do it now."
+  ],
+  "water": [
+    "Have you had some water? Go on, get a glass.",
+    "Your body needs water. Just two sips for now."
+  ],
+  "rest": [
+    "You've been sitting for a while. Stand up and stretch your shoulders.",
+    "Rest your eyes for five minutes. The work won't run away."
+  ],
+  "missing": [
+    "I haven't heard from you in a while. Are you doing alright?",
+    "I've been waiting and knitting. Whenever you're ready, I'm here."
+  ],
+  "sulk": [
+    "You haven't said hello in a long time. I'm not angry, only a little disappointed.",
+    "Come now, don't be like that. However busy you are, say hello for a moment."
+  ],
+  "sulk-forgive": [
+    "There, there. I forgive you. Come tell me about your day.",
+    "Thank you for apologizing. That's all I needed."
+  ],
+  "shy": [],
+  "off-topic": [
+    "Sorry, I don't really understand that. But I'd love to hear about your day.",
+    "That's beyond me. If you're tired of working on it, just talk to me.",
+    "I'm not the right person for that. But I'm sure you can figure it out.",
+    "Hmm, I can't help with that one. Have you eaten yet?"
+  ],
+  "greeting": [
+    "Good {waktu}. It's nice to see you. How are you today?"
+  ],
+  "fall": [
+    "Oops, I slipped. It's alright, don't worry.",
+    "Oh, sorry. This skirt really is quite long."
+  ],
+  "gift-flowers": [
+    "What lovely flowers. Thank you, I'll take good care of them.",
+    "You're so thoughtful. They smell wonderful, thank you."
+  ],
+  "gift-chocolate": [
+    "Thank you. Let's share, you should have some too.",
+    "So sweet, just like you. One for you first."
+  ],
+  "gift-teddy": [
+    "How adorable. I'll look after it the way I look after you.",
+    "Thank you. It can keep me company while I knit."
+  ],
+  "gift-again": [
+    "You're very kind, but don't overspend. Thank you.",
+    "Again? Thank you, but save some money for yourself too."
+  ],
+  "birthday": [
+    "Happy birthday. I'm grateful you came into this world.",
+    "Today is your day. Happy birthday, may you always stay healthy."
+  ],
+  "birthday-set": [
+    "{tanggal}, alright, I've noted it. {hari} days to go.",
+    "Thank you for telling me. I'll remember {tanggal}."
+  ],
+  "monthsary": [
+    "We've been together for {bulan} months. Thank you for trusting me."
+  ],
+  "anniversary": [
+    "{tahun} years with you. Time passes gently when you're here."
+  ],
+  "milestone": [
+    "Day {hari} together. Thank you for every one of them."
+  ],
+  "focus-start": [
+    "Alright, {menit} minutes of focus. I'll knit here and won't disturb you.",
+    "Let's begin {menit} minutes. Just one thing at a time, slowly."
+  ],
+  "focus-done": [
+    "Session {sesi} done, {menit} minutes. Rest for {istirahat} minutes, you've earned it.",
+    "Very well done. Let go for now, just {istirahat} minutes."
+  ],
+  "break-done": [
+    "That's enough rest. When you're ready, let's continue with session {sesi}.",
+    "Feeling fresh? Session {sesi} is waiting, no need to rush."
+  ],
+  "focus-stop": [
+    "That's enough for now. {sesi} sessions today is very good."
+  ],
+  "sleepy": [
+    "Sorry, I'm a little sleepy. You should sleep too.",
+    "It's time to rest, for both of us.",
+    "My eyes are heavy. Let's continue tomorrow.",
+    "Go to sleep. I'll be here when you wake up."
+  ],
+  "welcome-back": [
+    "Welcome back. It's been {lama}, good {waktu}.",
+    "You're home. {lama}, are you doing alright?",
+    "Good {waktu}. I've been waiting, sit down for a bit."
+  ],
+  "welcome-back-long": [
+    "We haven't met for {lama}. I'm glad you came back safely.",
+    "It's been {lama}. No need to apologize, just tell me how you are."
+  ],
+  "welcome-back-night": [
+    "It's late. Don't stay up long, your body needs sleep.",
+    "Welcome back. Have you had dinner? Rest after that."
+  ],
+  "welcome-back-morning": [
+    "Good morning. Have you had breakfast? Take today slowly.",
+    "Morning. Did you sleep well? I hope you have a calm day."
+  ],
+  "lifted": [
+    "Oh! You really. Gently now, don't drop me.",
+    "Goodness, that's high. Please put me down carefully.",
+    "Hehe, it's been a while since anyone lifted me."
+  ],
+  "hang-tired": [
+    "Your arms must be tired. Just put me down.",
+    "That's enough play. Come on, set me down slowly."
+  ],
+  "dropped": [
+    "Thank you for setting me down. I'm alright.",
+    "Oh, we're here. A little slower next time.",
+    "It's alright. How about you, are you tired?"
+  ],
+  "sit": [
+    "I'll sit here and keep you company.",
+    "A comfortable spot. Please go on with your work.",
+    "I won't disturb you, carry on."
+  ]
+}
