@@ -2,7 +2,7 @@
   "name": "lokashaka",
   "displayName": "Lokashaka",
   "description": "Your Lokashaka character keeps you company while you code: she panics at errors, cheers when a run succeeds, and loves headpats.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "lokashaka",
   "private": true,
   "license": "SEE LICENSE IN LICENSE.txt",
@@ -18,6 +18,12 @@
   "activationEvents": [
     "onStartupFinished"
   ],
+  "capabilities": {
+    "untrustedWorkspaces": {
+      "supported": true
+    },
+    "virtualWorkspaces": true
+  },
   "contributes": {
     "viewsContainers": {
       "panel": [
